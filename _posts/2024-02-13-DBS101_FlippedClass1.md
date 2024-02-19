@@ -56,6 +56,7 @@ Firstly, I had already learned the different types of database users before comi
 ----
 #### How the flipped class can be improved:-
 The flipped class can be improved by:
+
 -using pre-class quizzes 
 
 -delivering a variety of material kinds, such as interactive modules, videos, etc to accommodate different ways of learning.
