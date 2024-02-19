@@ -5,7 +5,6 @@ tags: [DBS101]
 ---
 
 ### Topic : Database Users and Database Administrators
-----
 
 #### Things I Learned in this lesson:-
 The lesson was about the roles of database administrators and different types of database users.
