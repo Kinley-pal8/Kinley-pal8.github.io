@@ -6,8 +6,7 @@ tags: [DBS101]
 
 ### Topic : Database Users and Database Administrators
 ----
-
-## Things I Learned in this lesson:-
+#### Things I Learned in this lesson:-
 The lesson was about the roles of database administrators and different types of database users.
 The stuff that I learned during the period of the lesson is listed below:
 I am aware of the roles of database administrators, they are:
@@ -51,11 +50,11 @@ Database Administrator: They oversee and maintain database systems to make sure 
 Lastly, I learned the functions of DBA where it plays a crucial role in designing, implementing, managing, and maintaining databases.
 
 ---- 
-## Things I did in my flipped class:-
+#### Things I did in my flipped class:-
 Firstly, I had already learned the different types of database users before coming to the class. I had made some notes on it and during the 15 minutes of the flipped class, I just searched for some extra points to add on and then, I shared it with my peers and discussed it within ourselves.
 
 ----
-## How the flipped class can be improved:-
+#### How the flipped class can be improved:-
 The flipped class can be improved by:
 -using pre-class quizzes 
 -delivering a variety of material kinds, such as interactive modules, videos, etc to accommodate different ways of learning.
