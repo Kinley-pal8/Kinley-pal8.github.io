@@ -2,7 +2,7 @@
 Title: DBS101 Flipped Class 2
 categories: [DBS101, Flipped_Class1]
 tags: [DBS101]
----
+----
 
 ### Topic : Entity Relationship Diagram
 
@@ -14,8 +14,8 @@ Defining the entities and their attributes could be an initial step towards crea
 
 As therefore, the ER diagram is a lot more than merely a theoretical exercise; it has actual applications in a variety of areas, including  social networking, e-commerce, healthcare, and education, and it can be used to create functional database systems that fulfill the needs of their users and applications.
 
+----
 
----- 
 Firstly, our group was assigned in with the making of the ER diagram of airline ticketing and then, we started with understanding of entities, their attributes, and the relationships between them. 
 With the context of an airline ticketing system, entities might include Passengers, Flights, Tickets, and Airlines. Attributes for these entities could include PassengerID, Name, ContactInfo for Passengers; FlightID, Departure, Arrival for Flights; and TicketID, Price, PassengerID, FlightID for Tickets. Relationships might involve one-to-many or many-to-many connections between entities, such as a Passenger can book many Tickets, and a Flight can have many Tickets. 
 Using a diagramming tool, we started drawing the entities as rectangles, attributes as ovals, and relationships as diamonds. Using lines to connect the entities with relationships, and indicate cardinality at the ends of the relationships. 
