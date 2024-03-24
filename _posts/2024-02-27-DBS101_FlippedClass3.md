@@ -2,9 +2,11 @@
 Title: DBS101 Flipped Class 3
 categories: [DBS101, Flipped_Class]
 tags: [DBS101]
-----
+---
 
 ### Topic : Null Values in SQL and Set Operations in SQL
+
+---
 
 Its about the null values in SQL and set operations in SQL, the null values in SQL stands for unknown or missing data. It's like a blank space in a table column or it is not a single value; it isn't the same as zero or an empty string. In searches and calculations, you can apply NULL to handle missing data, and there are certain ways for handling it. Understanding NULL is essential for effectively managing data in databases. The aggregate functions like COUNT(), SUM(), and AVG(), deal with the null values which typically ignore NULL values in calculations. They only consider non-NULL values unless instructed otherwise and wanted to include NULL values, you'll need to handle them explicitly using functions like COUNT(*), ISNULL(), or COALESCE().
 
@@ -26,3 +28,4 @@ So, my expert group was 2 with the topic 'Null values in SQL', I just read the r
 ----
 
 2 hours is too long for the flipped class, maybe  1 hour 30 minutes will be enough.
+

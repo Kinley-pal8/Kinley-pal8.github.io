@@ -2,9 +2,11 @@
 Title: DBS101 Flipped Class 2
 categories: [DBS101, Flipped_Class]
 tags: [DBS101]
-----
+---
 
 ### Topic : Entity Relationship Diagram
+
+---
 
 During the flipped class, I had a clear picture of the ER Diagram or modeling why it is important to us, and how to make one.
 
@@ -25,5 +27,3 @@ About the relations and cardinalities, it can be
 ne-to-many or many-to-many connections, etc as it depends upon the systemfor example, a passenger can book many tickets, a flight can have many tickets and a reservation is associated with one ticket and one passenger.
 
 At last, we did a short presentation and explained to our friends and also got some comments on how can we imporve our ER diagram.
-
-
