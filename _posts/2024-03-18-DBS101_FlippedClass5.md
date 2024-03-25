@@ -78,4 +78,10 @@ There are numerous levels of normal bureaucracy, each building upon the precedin
 
 These process play a crucial position in database design via step by step lowering redundancy and making sure records integrity through well-described relationships among tables and attributes. By adhering to those normalization ranges, databases may be based correctly to minimize anomalies and optimize records garage.
 
+---
 
+Reference:
+
+Sharma, D. K. (2024, February 18). Database Normalization and SQL. Medium. https://medium.com/@devesh752001/database-normalization-and-sql-5475cf4a7922
+
+Learn Computer Science Online. (2024). What Is Data In DBMS? https://www.learncomputerscienceonline.com/what-is-data-in-dbms/
