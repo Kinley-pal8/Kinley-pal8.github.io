@@ -40,31 +40,39 @@ There are numerous levels of normal bureaucracy, each building upon the precedin
   In 1NF, every column in a desk includes atomic values, meaning no repeating companies or arrays.
   It guarantees that every attribute contains most effective a single value, warding off complex facts sorts like arrays or nested tables.
 
-![alt text](<Screenshot from 2024-03-26 00-48-20.png>)   ![alt text](<Screenshot from 2024-03-26 00-48-32.png>)
+
+![alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNC2f8Cg2mUocoHelaeoemW2NHl4Cz_OheSKAdJTFZDC-W2hG0)
+
 
 - Second Normal Form (2NF):
   2NF builds on 1NF with the aid of ensuring that all non-key attributes are fully useful dependent on the primary key.
   It gets rid of partial dependencies in which an characteristic relies upon on best part of the number one key.
 
-![alt text](<Screenshot from 2024-03-26 00-53-19.png>)
+
+![alt text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAm0TjfWokxrdqAbOWrHuSxFwr6jmujQCtNpxC0Wq_oevxUtDl)
+
 
 - Third Normal Form (3NF):
   3NF similarly refines the normalization manner through getting rid of transitive dependencies.
   It guarantees that non-key attributes are not depending on different non-key attributes in the same table.
 
-![alt text](<Screenshot from 2024-03-26 00-54-25.png>)
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWewQhThj1--CVAv2sneSEZ8yfvtct8r1vUdRmSdOhygxcLTB)
+
 
 - Boyce-Codd Normal Form (BCNF):
   BCNF is a stricter version of 3NF where every determinant ought to be a candidate key.
   It gets rid of anomalies associated with purposeful dependencies and ensures statistics integrity.
 
-![alt text](<Screenshot from 2024-03-26 00-56-00.png>)
 
-- Fourth Normal Form (4NF)
+![alt text](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk3bxrSjMxyvzGzQdC3KdhOj6AsH8IRCD-dYgKBhL5Yc9FZS4E)
+
+
+- Fourth Normal Form (4NF):
   4NF offers with multi-valued dependencies, in which one or extra attributes depend on multiple independent attributes.
   It helps in breaking down complex records systems into simpler, more potential bureaucracy.
 
-- Fifth Normal Form (5NF)
+- Fifth Normal Form (5NF):
   5NF entails in addition decomposition of tables to cast off be a part of dependencies.
   It objectives to lessen redundancy and make sure that every table serves a single purpose without overlapping records.
 
