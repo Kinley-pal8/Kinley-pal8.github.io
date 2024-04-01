@@ -69,3 +69,17 @@ Query Optimization:
 
 
 Thus, the architecture aims to mimic a real RDBMS while allowing students to focus on database concepts over low-level details. The assignments build up the full system in stages.The researchers have utilized chldb for 5 times of their database course for advanced students, while displaying satisfactory results in understanding internal detail of RDBMS. Such modification might include making concurrency control and better query optimization assignments. Bringing an open-source model to the classroom permits other teachers to be able to either expand or modify the chidb.  
+
+Therefore, there’s a data structure here, for indexing, the B-trees, or B+-trees, with the hash tables fast retrieval of data, linked lists for in-memory data structures, bitmaps indexing and query optimization, and finally, heaps for priority queues and sorting. And the procedure, indexing to enable
+quick search of data, dividing the big queries into smaller ones for the speeding up the performance,concurrency control which guarantees the data integrity and consistency, transaction management which defines ACID properties and makes data operations durable, buffer management to provide more
+performance by caching data and reducing disk I/O, maintaining the database availability, storage management. So, the skills of understanding and applying functional ways of using the data structures and techniques are the main steps of a beginner with a goal of designing and developing the system for the
+relational database high-level software. However, the system requires to store the data efficiently, retrieve the data, and make the data operations as performing and precise as possible while maintaining the data integrity, consistency, and scalability
+
+---
+
+Reference
+- Shaw, A., & Seshadri, S. (2016). chidb: A Database for Students. In Proceedings of the 47th ACM Technical Symposium on Computer Science Education (SIGCSE '16). ACM, New York, NY, USA.
+- Danka, T. (2020, May 15). How to Build a Relational Database From Scratch. Medium.
+- University of Massachusetts Boston. (2016, February 1). CS634 Lecture 3: Database Management Systems. Retrieved from https://www.cs.umb.edu/cs634/s16/class03_6pp.pdf
+- Caldwell, R. (n.d.). RAID Level 1, 5, 6, 10. Liquid Web. Retrieved April 1, 2024, from https://www.liquidweb.com/kb/raid-level-1-5-6-10/
+- Raj, J. (n.d.). 07 Buffer Management. Georgia Institute of Technology. Retrieved April 1, 2024, from https://faculty.cc.gatech.edu/~jarulraj/courses/4420-f22/slides/07-buffer-management-1.pdf
