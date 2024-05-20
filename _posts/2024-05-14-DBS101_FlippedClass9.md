@@ -6,7 +6,7 @@ tags: [DBS101]
 
 ## Topic : Materialized Views and Advanced Query Optimization Techniques
 
-Today I have studied more about the advanced concepts associated with the query optimization in databases. A major topic was materialized views, which are query results or views precomputed and stored on disk. The main advantage of materialized views is that they can greatly accelerate queries that need expensive operations like aggregations or joins on large data sets. Rather than recomputing the whole query from the beginning on the base tables, the query can just look up and get the precomputed materialized view.
+Today I have studied about the advanced concepts associated with the query optimization in databases. A major topic was materialized views, which are query results or views precomputed and stored on disk. The main advantage of materialized views is that they can greatly accelerate queries that need expensive operations like aggregations or joins on large data sets. Rather than recomputing the whole query from the beginning on the base tables, the query can just look up and get the precomputed materialized view.
 
 
 ![alt text](../assets/FC-9-2.png)
