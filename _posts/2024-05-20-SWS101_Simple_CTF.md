@@ -31,3 +31,5 @@ I used a well-known technique to spawn a shell from within vim with root privile
 ![alt text](../assets/CTF1-8.png)
 
 In conclusion, this challenge was definitely good fun and I got a lot out of it. It enabled me to learn of various engagements like; scanning through Nmap, a web content discovery tools using Gobuster, searching for vulnerabilities, and exploiting the SQl injection, escalating privileges. This boot2root machine is complete to me, and i am looking forward to more such joyful challenges in the future.
+
+![alt text](../assets/CTF1-9.png)
